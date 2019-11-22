@@ -1,4 +1,4 @@
-# merrychristmas
+# Merry Christmas
 ##### Turn your site into a Merry Christmas jingle
 
 # Instructions
@@ -7,3 +7,6 @@
 ```
 	<a onclick="return merryChristmas();">Merry Christmas</a>
 ```
+
+# Demo
+To see this script in action goto [https://www.wasql.com/]{https://www.wasql.com/} and click on Merry Christmas in the top menu
