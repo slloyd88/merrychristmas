@@ -9,4 +9,4 @@
 ```
 
 # Demo
-To see this script in action goto [https://www.wasql.com/]{https://www.wasql.com/} and click on Merry Christmas in the top menu
+To see this script in action goto https://www.wasql.com and click on Merry Christmas in the top menu
